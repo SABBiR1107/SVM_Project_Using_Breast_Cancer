@@ -106,8 +106,9 @@ Predictions were made on the test dataset.
 
 The model performance was evaluated using:
 
-* Accuracy Score
-* Confusion Matrix
+* Accuracy Score Model Accuracy: 0.956140350877193
+* Confusion Matrix<img width="488" height="393" alt="download" src="https://github.com/user-attachments/assets/c24a8357-090c-4d6d-b366-ef8171aedaf4" />
+
 * Classification Report (Precision, Recall, F1-score)
 
 ### Results:
@@ -116,6 +117,7 @@ The model performance was evaluated using:
 * RBF Kernel Accuracy: ~98%
 
 The RBF kernel performed slightly better than the linear kernel.
+<img width="545" height="393" alt="download" src="https://github.com/user-attachments/assets/bdead2f7-22ab-4dea-ac10-8293e9aeb56e" />
 
 ---
 
